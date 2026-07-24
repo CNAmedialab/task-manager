@@ -226,7 +226,7 @@
         {
           "date": "2026-07-24",
           "note": "未合併分支處置 + 部署驗證進度",
-          "lastNotified": null
+          "lastNotified": "2026-07-25"
         }
       ],
       "notify": {
@@ -571,7 +571,7 @@
         {
           "date": "2026-07-24",
           "note": "refactor 後一週:cron 產線是否穩定、README 是否需更新",
-          "lastNotified": null
+          "lastNotified": "2026-07-25"
         }
       ],
       "notify": {
@@ -755,7 +755,7 @@
         {
           "date": "2026-07-25",
           "note": "PR #12 是否已合併",
-          "lastNotified": null
+          "lastNotified": "2026-07-25"
         }
       ],
       "notify": {

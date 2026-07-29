@@ -441,16 +441,40 @@
       "owner": "capo",
       "status": "active",
       "createdAt": "2026-07-18T02:49:47.393Z",
-      "updatedAt": "2026-07-18T02:49:47.527Z",
+      "updatedAt": "2026-07-29T05:45:28.350Z",
       "milestones": [],
       "steps": [
         {
           "id": "T11-S1",
           "title": "merge !cancel + 進度串流分支",
-          "stage": "in_test",
+          "stage": "done",
           "owner": "capo",
           "createdAt": "2026-07-18T02:49:47.440Z",
-          "updatedAt": "2026-07-18T02:49:47.440Z"
+          "updatedAt": "2026-07-29T05:45:28.077Z"
+        },
+        {
+          "id": "T11-S2",
+          "title": "credential isolation + per-session workdir(from OpenAB)",
+          "stage": "done",
+          "owner": "capo",
+          "createdAt": "2026-07-29T05:45:28.156Z",
+          "updatedAt": "2026-07-29T05:45:28.156Z"
+        },
+        {
+          "id": "T11-S3",
+          "title": "Google Chat 前端 + bridge_core 重構",
+          "stage": "done",
+          "owner": "capo",
+          "createdAt": "2026-07-29T05:45:28.237Z",
+          "updatedAt": "2026-07-29T05:45:28.237Z"
+        },
+        {
+          "id": "T11-S4",
+          "title": "env var / gchat mention parity 修復",
+          "stage": "done",
+          "owner": "capo",
+          "createdAt": "2026-07-29T05:45:28.350Z",
+          "updatedAt": "2026-07-29T05:45:28.350Z"
         }
       ],
       "checkpoints": [

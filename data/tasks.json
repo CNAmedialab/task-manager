@@ -721,7 +721,7 @@
       "owner": "chiatzu",
       "status": "active",
       "createdAt": "2026-07-18T09:06:53.797Z",
-      "updatedAt": "2026-07-18T09:06:54.198Z",
+      "updatedAt": "2026-07-29T05:48:16.271Z",
       "milestones": [],
       "steps": [
         {
@@ -747,6 +747,14 @@
           "owner": "chiatzu",
           "createdAt": "2026-07-18T09:06:54.112Z",
           "updatedAt": "2026-07-18T09:06:54.112Z"
+        },
+        {
+          "id": "T19-S4",
+          "title": "mcp-server login 測試",
+          "stage": "in_dev",
+          "owner": "chiatzu",
+          "createdAt": "2026-07-29T05:48:16.271Z",
+          "updatedAt": "2026-07-29T05:48:16.271Z"
         }
       ],
       "checkpoints": [],
@@ -825,17 +833,26 @@
     {
       "id": "T23",
       "title": "大師學院:線上學習平台",
-      "description": "[idea] 線上學習平台構想,已有初步討論與文件。參考:Claude session https://claude.ai/code/session_01YNbzXu4SWCCiYPf2NtCbWU、Artifact https://claude.ai/code/artifact/3218b8fd-c127-456a-ad6d-e4838da8ed47",
-      "owner": "",
+      "description": "線上學習平台構想已具體化為 leadership-academy MCP server 開發。原參考:Claude session https://claude.ai/code/session_01YNbzXu4SWCCiYPf2NtCbWU、Artifact https://claude.ai/code/artifact/3218b8fd-c127-456a-ad6d-e4838da8ed47",
+      "owner": "capo",
       "status": "active",
       "createdAt": "2026-07-22T04:01:44.300Z",
-      "updatedAt": "2026-07-22T04:01:44.471Z",
+      "updatedAt": "2026-07-29T05:48:26.971Z",
       "milestones": [],
-      "steps": [],
+      "steps": [
+        {
+          "id": "T23-S1",
+          "title": "leadership-academy MCP server 開發",
+          "stage": "in_dev",
+          "owner": "capo",
+          "createdAt": "2026-07-29T05:48:16.382Z",
+          "updatedAt": "2026-07-29T05:48:16.382Z"
+        }
+      ],
       "checkpoints": [],
       "notify": {
-        "cadence": "off",
-        "weekday": null,
+        "cadence": "weekly",
+        "weekday": "fri",
         "lastNotified": null
       }
     },

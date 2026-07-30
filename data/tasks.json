@@ -853,7 +853,7 @@
       "notify": {
         "cadence": "weekly",
         "weekday": "fri",
-        "lastNotified": null
+        "lastNotified": "2026-07-31"
       }
     },
     {

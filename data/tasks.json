@@ -917,6 +917,104 @@
         "weekday": null,
         "lastNotified": null
       }
+    },
+    {
+      "id": "T26",
+      "title": "董事長報告簡報",
+      "description": "[idea] deadline 08/04",
+      "owner": "",
+      "status": "active",
+      "createdAt": "2026-07-31T10:59:36.815Z",
+      "updatedAt": "2026-07-31T10:59:42.919Z",
+      "milestones": [
+        {
+          "name": "簡報交付",
+          "due": "2026-08-04",
+          "done": false,
+          "doneAt": null
+        }
+      ],
+      "steps": [],
+      "checkpoints": [
+        {
+          "date": "2026-08-03",
+          "note": "明天(08/04)就是董事長報告簡報deadline,確認是否備妥",
+          "lastNotified": null
+        }
+      ],
+      "notify": {
+        "cadence": "off",
+        "weekday": null,
+        "lastNotified": null
+      }
+    },
+    {
+      "id": "T27",
+      "title": "用人公文",
+      "description": "[idea] 細節待補",
+      "owner": "",
+      "status": "active",
+      "createdAt": "2026-07-31T10:59:36.917Z",
+      "updatedAt": "2026-07-31T10:59:42.972Z",
+      "milestones": [],
+      "steps": [],
+      "checkpoints": [],
+      "notify": {
+        "cadence": "weekly",
+        "weekday": "mon",
+        "lastNotified": null
+      }
+    },
+    {
+      "id": "T28",
+      "title": "cap/pid relation data",
+      "description": "[idea] 細節待補",
+      "owner": "",
+      "status": "active",
+      "createdAt": "2026-07-31T10:59:36.998Z",
+      "updatedAt": "2026-07-31T10:59:43.042Z",
+      "milestones": [],
+      "steps": [],
+      "checkpoints": [],
+      "notify": {
+        "cadence": "weekly",
+        "weekday": "mon",
+        "lastNotified": null
+      }
+    },
+    {
+      "id": "T29",
+      "title": "英文記者照片處理",
+      "description": "[idea] 細節待補",
+      "owner": "",
+      "status": "active",
+      "createdAt": "2026-07-31T10:59:37.080Z",
+      "updatedAt": "2026-07-31T10:59:43.095Z",
+      "milestones": [],
+      "steps": [],
+      "checkpoints": [],
+      "notify": {
+        "cadence": "weekly",
+        "weekday": "mon",
+        "lastNotified": null
+      }
+    },
+    {
+      "id": "T30",
+      "title": "paywall",
+      "description": "[idea] 細節待補",
+      "owner": "",
+      "status": "active",
+      "createdAt": "2026-07-31T10:59:37.141Z",
+      "updatedAt": "2026-07-31T10:59:43.149Z",
+      "milestones": [],
+      "steps": [],
+      "checkpoints": [],
+      "notify": {
+        "cadence": "weekly",
+        "weekday": "mon",
+        "lastNotified": null
+      }
     }
   ]
 }

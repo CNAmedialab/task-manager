@@ -547,7 +547,7 @@
         {
           "date": "2026-08-01",
           "note": "確認 2 個閒置 QA PR(3月底,內容重疊)是否該合一處理或關閉",
-          "lastNotified": null
+          "lastNotified": "2026-08-01"
         }
       ],
       "notify": {
@@ -627,7 +627,7 @@
         {
           "date": "2026-08-01",
           "note": "PR#27(可能已被#39取代)與 10 條 autofix 殘枝是否清理",
-          "lastNotified": null
+          "lastNotified": "2026-08-01"
         }
       ],
       "notify": {

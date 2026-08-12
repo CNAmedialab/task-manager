@@ -227,11 +227,6 @@
           "date": "2026-07-24",
           "note": "未合併分支處置 + 部署驗證進度",
           "lastNotified": "2026-07-25"
-        },
-        {
-          "date": "2026-07-30",
-          "note": "該去問 chiatzu:issue #4(訂閱牆內部端點 POST /internal/chat/turn)13天沒動靜,待認領還是卡住了?",
-          "lastNotified": null
         }
       ],
       "notify": {
@@ -935,13 +930,7 @@
         }
       ],
       "steps": [],
-      "checkpoints": [
-        {
-          "date": "2026-08-03",
-          "note": "明天(08/04)就是董事長報告簡報deadline,確認是否備妥",
-          "lastNotified": null
-        }
-      ],
+      "checkpoints": [],
       "notify": {
         "cadence": "off",
         "weekday": null,

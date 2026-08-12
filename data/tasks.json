@@ -202,7 +202,7 @@
       "owner": "chiatzu",
       "status": "active",
       "createdAt": "2026-07-18T02:49:27.042Z",
-      "updatedAt": "2026-07-18T02:49:27.224Z",
+      "updatedAt": "2026-07-30T09:16:32.191Z",
       "milestones": [],
       "steps": [
         {
@@ -359,7 +359,7 @@
       "owner": "karen",
       "status": "active",
       "createdAt": "2026-07-18T02:49:46.975Z",
-      "updatedAt": "2026-07-18T02:49:47.117Z",
+      "updatedAt": "2026-07-30T09:16:32.283Z",
       "milestones": [],
       "steps": [
         {
@@ -379,7 +379,13 @@
           "updatedAt": "2026-07-18T02:49:47.066Z"
         }
       ],
-      "checkpoints": [],
+      "checkpoints": [
+        {
+          "date": "2026-07-30",
+          "note": "該去問 karen:issue #7(前端契約超出API指南範圍,citation event/usage/preference/tools)17天沒回應,要跟後端對齊了嗎?",
+          "lastNotified": null
+        }
+      ],
       "notify": {
         "cadence": "weekly",
         "weekday": "wed",
@@ -611,7 +617,7 @@
       "owner": "karen",
       "status": "active",
       "createdAt": "2026-07-18T08:57:05.020Z",
-      "updatedAt": "2026-07-18T08:57:05.167Z",
+      "updatedAt": "2026-07-30T09:16:32.375Z",
       "milestones": [],
       "steps": [
         {
@@ -628,6 +634,11 @@
           "date": "2026-08-01",
           "note": "PR#27(可能已被#39取代)與 10 條 autofix 殘枝是否清理",
           "lastNotified": "2026-08-01"
+        },
+        {
+          "date": "2026-07-30",
+          "note": "該去問 karen:auto-gov-crawler 6個issue卡住待催(#1,#2,#3,#5,#6,#7),最舊的#1(API認證)已經開137天,是否還要處理或該關閉?",
+          "lastNotified": null
         }
       ],
       "notify": {
@@ -643,7 +654,7 @@
       "owner": "karen",
       "status": "active",
       "createdAt": "2026-07-18T08:57:05.215Z",
-      "updatedAt": "2026-07-18T08:57:05.307Z",
+      "updatedAt": "2026-07-30T09:16:32.452Z",
       "milestones": [],
       "steps": [
         {
@@ -655,7 +666,13 @@
           "updatedAt": "2026-07-18T08:57:05.261Z"
         }
       ],
-      "checkpoints": [],
+      "checkpoints": [
+        {
+          "date": "2026-07-30",
+          "note": "該去問 karen:receipt-intake-to-report 8個issue卡住待催(#1,#4,#5,#6,#7,#8,#9,#31),其中#4/#5是P1安全性問題(admin路由無認證/預設使用者硬編碼)開了131天未修,優先問這個",
+          "lastNotified": null
+        }
+      ],
       "notify": {
         "cadence": "off",
         "weekday": null,
@@ -721,7 +738,7 @@
       "owner": "chiatzu",
       "status": "active",
       "createdAt": "2026-07-18T09:06:53.797Z",
-      "updatedAt": "2026-07-29T05:48:16.271Z",
+      "updatedAt": "2026-07-30T09:16:32.521Z",
       "milestones": [],
       "steps": [
         {
@@ -757,7 +774,13 @@
           "updatedAt": "2026-07-29T05:48:16.271Z"
         }
       ],
-      "checkpoints": [],
+      "checkpoints": [
+        {
+          "date": "2026-07-30",
+          "note": "該去問 chiatzu:cna-mcp-server 2個issue卡住待催,#1(搜尋pipeline優化)開106天、#2(認證改ndx中央IdP草案)開15天,問問優先序",
+          "lastNotified": null
+        }
+      ],
       "notify": {
         "cadence": "weekly",
         "weekday": "thu",
@@ -887,6 +910,98 @@
       "notify": {
         "cadence": "off",
         "weekday": null,
+        "lastNotified": null
+      }
+    },
+    {
+      "id": "T26",
+      "title": "董事長報告簡報",
+      "description": "[idea] deadline 08/04",
+      "owner": "",
+      "status": "active",
+      "createdAt": "2026-07-31T10:59:36.815Z",
+      "updatedAt": "2026-07-31T10:59:42.919Z",
+      "milestones": [
+        {
+          "name": "簡報交付",
+          "due": "2026-08-04",
+          "done": false,
+          "doneAt": null
+        }
+      ],
+      "steps": [],
+      "checkpoints": [],
+      "notify": {
+        "cadence": "off",
+        "weekday": null,
+        "lastNotified": null
+      }
+    },
+    {
+      "id": "T27",
+      "title": "用人公文",
+      "description": "[idea] 細節待補",
+      "owner": "",
+      "status": "active",
+      "createdAt": "2026-07-31T10:59:36.917Z",
+      "updatedAt": "2026-07-31T10:59:42.972Z",
+      "milestones": [],
+      "steps": [],
+      "checkpoints": [],
+      "notify": {
+        "cadence": "weekly",
+        "weekday": "mon",
+        "lastNotified": null
+      }
+    },
+    {
+      "id": "T28",
+      "title": "cap/pid relation data",
+      "description": "[idea] 細節待補",
+      "owner": "",
+      "status": "active",
+      "createdAt": "2026-07-31T10:59:36.998Z",
+      "updatedAt": "2026-07-31T10:59:43.042Z",
+      "milestones": [],
+      "steps": [],
+      "checkpoints": [],
+      "notify": {
+        "cadence": "weekly",
+        "weekday": "mon",
+        "lastNotified": null
+      }
+    },
+    {
+      "id": "T29",
+      "title": "英文記者照片處理",
+      "description": "[idea] 細節待補",
+      "owner": "",
+      "status": "active",
+      "createdAt": "2026-07-31T10:59:37.080Z",
+      "updatedAt": "2026-07-31T10:59:43.095Z",
+      "milestones": [],
+      "steps": [],
+      "checkpoints": [],
+      "notify": {
+        "cadence": "weekly",
+        "weekday": "mon",
+        "lastNotified": null
+      }
+    },
+    {
+      "id": "T30",
+      "title": "paywall",
+      "description": "[idea] 細節待補",
+      "owner": "",
+      "status": "active",
+      "createdAt": "2026-07-31T10:59:37.141Z",
+      "updatedAt": "2026-07-31T10:59:43.149Z",
+      "milestones": [],
+      "steps": [],
+      "checkpoints": [],
+      "notify": {
+        "cadence": "weekly",
+        "weekday": "mon",
         "lastNotified": null
       }
     }

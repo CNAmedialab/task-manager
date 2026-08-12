@@ -1012,7 +1012,7 @@
       "owner": "chiatzu",
       "status": "active",
       "createdAt": "2026-08-12T12:00:49.969Z",
-      "updatedAt": "2026-08-12T13:40:47.430Z",
+      "updatedAt": "2026-08-12T13:41:25.611Z",
       "milestones": [],
       "steps": [
         {
@@ -1022,6 +1022,14 @@
           "owner": "",
           "createdAt": "2026-08-12T12:00:50.052Z",
           "updatedAt": "2026-08-12T12:00:50.052Z"
+        },
+        {
+          "id": "T31-S2",
+          "title": "產品化方向:包裝成付費服務,協助小型媒體/NGO 影片入庫(呼應 README 已提到的潛在產品方向)",
+          "stage": "plan",
+          "owner": "",
+          "createdAt": "2026-08-12T13:41:25.611Z",
+          "updatedAt": "2026-08-12T13:41:25.611Z"
         }
       ],
       "checkpoints": [],

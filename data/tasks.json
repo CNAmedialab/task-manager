@@ -493,7 +493,7 @@
       "notify": {
         "cadence": "weekly",
         "weekday": "mon",
-        "lastNotified": "2026-08-10"
+        "lastNotified": "2026-08-17"
       }
     },
     {
@@ -527,7 +527,7 @@
       "notify": {
         "cadence": "weekly",
         "weekday": "mon",
-        "lastNotified": "2026-08-10"
+        "lastNotified": "2026-08-17"
       }
     },
     {
@@ -951,7 +951,7 @@
       "notify": {
         "cadence": "weekly",
         "weekday": "mon",
-        "lastNotified": null
+        "lastNotified": "2026-08-17"
       }
     },
     {
@@ -968,7 +968,7 @@
       "notify": {
         "cadence": "weekly",
         "weekday": "mon",
-        "lastNotified": null
+        "lastNotified": "2026-08-17"
       }
     },
     {
@@ -985,7 +985,7 @@
       "notify": {
         "cadence": "weekly",
         "weekday": "mon",
-        "lastNotified": null
+        "lastNotified": "2026-08-17"
       }
     },
     {
@@ -1002,7 +1002,7 @@
       "notify": {
         "cadence": "weekly",
         "weekday": "mon",
-        "lastNotified": null
+        "lastNotified": "2026-08-17"
       }
     },
     {
